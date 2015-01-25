@@ -10,19 +10,26 @@
 	margin: 0 auto;
 }
 
+.header {
 
-.header {}
+}
 
 .sidebar {
-	/* hint! */
+	float: right;
+	width: 250px;
+    height: 300px;
 }
 
 .main-content {
+	float: left;
 	/* hint! */
+    width: 734px;
+    height: 300px;
 }
 
 .footer {
 	/* hint! */
+    clear: both;
 }
 
 /*
