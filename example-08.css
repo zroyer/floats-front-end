@@ -13,11 +13,25 @@
 .header {}
 
 
-.sidebar {}
+.sidebar {
+    float: left;
+    height: 300px;
+    width: 25%;
+}
 
-.main-content {}
+.main-content {
+    float: left;
+    height: 300px;
+    width: 50%;
+}
 
-.sub-content {}
+.sub-content {
+    float: left;
+    height: 300px;
+    width: 25%;
+}
 
 
-.footer {}
+.footer {
+    clear:both;
+}
