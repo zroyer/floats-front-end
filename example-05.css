@@ -29,8 +29,8 @@
 	width: 100%;
 	float: left;
 	height:340px;
-
 }
+
 /* hint! you have to contain the floated children elements. */
 .sidebar {
 	float: left;
